@@ -1,0 +1,18 @@
+{
+  "name": "streams_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "ejs": "^6.0.1",
+    "express": "^5.2.1",
+    "express-status-monitor": "^1.3.4",
+    "nodemon": "^3.1.14"
+  }
+}
